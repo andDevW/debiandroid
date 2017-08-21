@@ -1,2 +1,2 @@
 # debiandroid
-Debian for Android Development
+Debian Stretch for Android Development

@@ -15,6 +15,6 @@
     deb http://ftp.us.debian.org/debian/ stretch main
     deb-src http://ftp.us.debian.org/debian/ stretch main
 
-    #stretch-backports main
-    deb http://ftp.us.debian.org/debian/ stretch-backports  main
-    deb-src http://ftp.us.debian.org/debian/ stretch-backports main
+    #jessie-backports main
+    deb http://ftp.us.debian.org/debian/ jessie-backports  main
+    deb-src http://ftp.us.debian.org/debian/ jessie-backports main

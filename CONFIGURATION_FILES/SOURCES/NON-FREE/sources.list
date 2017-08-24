@@ -16,6 +16,6 @@
     deb http://ftp.us.debian.org/debian/ stretch main contrib non-free
     deb-src http://ftp.us.debian.org/debian/ stretch main contrib non-free
 
-    #stretch-backports main contrib non-free
-    deb http://ftp.us.debian.org/debian/ stretch-backports  main contrib non-free
-    deb-src http://ftp.us.debian.org/debian/ stretch-backports main contrib non-free
+    #jessie-backports main contrib non-free
+    deb http://ftp.us.debian.org/debian/ jessie-backports  main contrib non-free
+    deb-src http://ftp.us.debian.org/debian/ jessie-backports main contrib non-free

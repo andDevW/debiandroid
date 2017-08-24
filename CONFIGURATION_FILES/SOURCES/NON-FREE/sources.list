@@ -5,7 +5,7 @@
     # SWAP 'us' WITH YOUR 2 CHARACTER COUNTRY CODE:
     # http://ftp._ _ .debian.org/debian/
     
-    #stretch aptitude-cdrom via usb0
+    #stretch apt-cdrom via usb0
     #deb [trusted=yes] file:/media/usb0 stretch  main
 
     #stretch security updates main contrib non-free

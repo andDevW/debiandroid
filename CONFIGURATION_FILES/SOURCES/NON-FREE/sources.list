@@ -1,0 +1,21 @@
+
+    # /etc/apt/sources.list NON-FREE 
+    
+    # FILE PRECONFIGURED FOR US.
+    # SWAP 'us' WITH YOUR 2 CHARACTER COUNTRY CODE:
+    # http://ftp._ _ .debian.org/debian/
+    
+    #stretch aptitude-cdrom via usb0
+    #deb [trusted=yes] file:/media/usb0 stretch  main
+
+    #stretch security updates main contrib non-free
+    deb http://security.debian.org/ stretch/updates main contrib non-free
+    deb-src http://security.debian.org/ stretch/updates main contrib non-free
+
+    #stretch main contrib non-free
+    deb http://ftp.us.debian.org/debian/ stretch main contrib non-free
+    deb-src http://ftp.us.debian.org/debian/ stretch main contrib non-free
+
+    #stretch-backports main contrib non-free
+    deb http://ftp.us.debian.org/debian/ stretch-backports  main contrib non-free
+    deb-src http://ftp.us.debian.org/debian/ stretch-backports main contrib non-free

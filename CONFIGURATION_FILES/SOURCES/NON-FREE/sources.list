@@ -8,14 +8,14 @@
     #stretch apt-cdrom via usb0
     #deb [trusted=yes] file:/media/usb0 stretch  main
 
-    #stretch security updates main contrib non-free
+    #stretch security updates 
     deb http://security.debian.org/ stretch/updates main contrib non-free
     deb-src http://security.debian.org/ stretch/updates main contrib non-free
 
-    #stretch main contrib non-free
+    #stretch 
     deb http://ftp.us.debian.org/debian/ stretch main contrib non-free
     deb-src http://ftp.us.debian.org/debian/ stretch main contrib non-free
 
-    #jessie-backports main contrib non-free
-    deb http://ftp.us.debian.org/debian/ jessie-backports  main contrib non-free
-    deb-src http://ftp.us.debian.org/debian/ jessie-backports main contrib non-free
+    #stretch-backports 
+    deb http://ftp.us.debian.org/debian/ stretch-backports  main contrib non-free
+    deb-src http://ftp.us.debian.org/debian/ stretch-backports main contrib non-free

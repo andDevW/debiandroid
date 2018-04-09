@@ -1,8 +1,8 @@
-# debiandroid
+### debiandroid
 
 # A Step-By-Step Copy & Paste Guide to   
 # Installing Debian Stretch   
-# and   
+# &   
 # Configuring it for Android Development.
 Installing GNU/Linux isn't the easiest thing to do, just ask 
 [the founder of GNU, Richard Stallman.](https://www.youtube.com/watch?v=umQL37AC_YM)

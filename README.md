@@ -1,8 +1,12 @@
 # debiandroid
-### Debian Stretch for Android Development ###
 
-Source files for the following guides:
+# A Step-By-Step Copy & Paste Guide to   
+# Installing Debian Stretch and Configuring it for Android Development.
+Installing GNU/Linux isn't the easiest thing to do, just ask 
+[the founder of GNU, Richard Stallman.](https://www.youtube.com/watch?v=umQL37AC_YM)
 
+If you can copy and you can paste you can install Debian and keep it up-to-date.
+Source files for installation are provided here in the GitHub repo.
 
 <a href="https://anddevw.com/debian%20for%20android%20development/debian-for-android-development/">Step-by-Step Debian Installation for Android Development</a>
 

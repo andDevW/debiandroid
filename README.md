@@ -7,6 +7,8 @@ Installing GNU/Linux isn't the easiest thing to do, just ask
 [the founder of GNU, Richard Stallman.](https://www.youtube.com/watch?v=umQL37AC_YM)
 
 If you can copy and you can paste you can install Debian and keep it up-to-date.  
+This walks you through a bare-minimum Debian installation and turning it into an extremely efficient i3 DWM powerhouse.  
+
 Source files for installation are provided here in the GitHub repo.
 
 

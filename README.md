@@ -13,9 +13,9 @@ Source files for installation are provided here in the GitHub repo.
 
 
 
-<a href="https://anddevw.com/debian%20for%20android%20development/debian-for-android-development/">Step-by-Step Debian Installation for Android Development</a>
+<a href="https://anddevw.com/debian%20for%20android%20development/debianAndroidDevConfig/">Step-by-Step Debian Installation for Android Development</a>
 
-<a href="https://anddevw.com/how-to-leave-ubuntu-for-debian/">
+<a href="https://anddevw.com/debianInstallerHOWTO/">
 Step-by-Step Guide to Creating Debian Stretch USB Installer with Ubuntu</a>  
 
 
